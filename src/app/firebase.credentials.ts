@@ -1,9 +1,9 @@
 export const FIREBASE_CONFIG =
      {
-    apiKey: "AIzaSyAZMmGGGIGLduLMp3_7bwY-IsplRpFloQw",
-    authDomain: "shoppinglistdb-fd00f.firebaseapp.com",
-    databaseURL: "https://shoppinglistdb-fd00f.firebaseio.com",
-    projectId: "shoppinglistdb-fd00f",
-    storageBucket: "",
-    messagingSenderId: "609716378963"
+  apiKey: "AIzaSyCtpVk3leg0by2SgK-FiTuuK7Ex5p1clzY",
+    authDomain: "shoppinglistdb-f4a32.firebaseapp.com",
+    databaseURL: "https://shoppinglistdb-f4a32.firebaseio.com",
+    projectId: "shoppinglistdb-f4a32",
+    storageBucket: "shoppinglistdb-f4a32.appspot.com",
+    messagingSenderId: "760845504284"
   };
